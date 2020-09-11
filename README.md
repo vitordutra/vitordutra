@@ -1,3 +1,10 @@
+*“Those who can imagine anything, can create the impossible.”*
+**― Alan Turing**
+
+*“Self-education is, I firmly believe, the only kind of education there is.”*
+**― Isaac Asimov**
+
+
 ### Hi there 👋
 
 <!--
