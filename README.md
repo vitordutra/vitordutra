@@ -48,8 +48,8 @@ Alongside my focused studies, I'm enrolled in these disciplines at my university
 
 
 ### ⚡ Fun Facts
-- 🔢 I love math and all math related stuff!
-- 🎧 I usually listen to music when I'm coding! You can listen to what I'm listening here:
+ 🔢 I love math and all math related stuff! </br>
+ 🎧 I usually listen to music when I'm coding! You can listen to what I'm listening here:
 
 <!--
 **vitordutra/vitordutra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
