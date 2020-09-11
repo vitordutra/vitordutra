@@ -5,6 +5,7 @@
 **― Isaac Asimov**
 
 ### Hello There 🖖 I'm Vitor Dutra
+[![Linkedin Badge](https://img.shields.io/badge/-Luke%20Morales-lightgrey?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-dutra/)](https://www.linkedin.com/in/vitor-dutra/)
 
 I'm a Chemical Engineer, also pursuing my 2nd degree in Computer Engineering.
 
@@ -17,6 +18,8 @@ Currently I'm focused on getting really good with the JavaScript stack to build 
  - [ ] React.js
  - [ ] React Native
  - [ ] Node.js
+ 
+ 
 
 <!--
 **vitordutra/vitordutra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
