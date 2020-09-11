@@ -12,15 +12,15 @@ I'm a Chemical Engineer, also pursuing my 2nd degree in Computer Engineering.
 I found my true calling working with computers and making them work for me. 
 I **love** to write these amazing pieces of ✨magic called software.
 
-### My current focus 👨‍💻
+### 👨‍💻 My current focus 
 Currently I'm focused on getting really good with the JavaScript stack to build amazing apps!
  - [ ] Pure Modern JavaScript
  - [ ] React.js
  - [ ] React Native
  - [ ] Node.js
  
- ### Univesity Studies 👨‍💻
-Along with my focused studies, I'm enrolled in these disciplines at my university
+### 🎓 Univesity Studies 
+Alongside my focused studies, I'm enrolled in these disciplines at my university
  - Algorithms and Data Structures (Python)
  - Databases (Theory and Practice)
  - Applied Electrical Circuits
@@ -30,7 +30,7 @@ Along with my focused studies, I'm enrolled in these disciplines at my universit
   - Functional (LISP)
   - Objct Oriented (Python)
  
-### Languages and Tools 🧰
+### 🧰 Languages and Tools
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -43,7 +43,11 @@ Along with my focused studies, I'm enrolled in these disciplines at my universit
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br />
 <br />
- 
+
+
+### ⚡ Fun Fact
+I usually listen to music when I'm coding!
+You can listen to what I'm listening here:
 
 <!--
 **vitordutra/vitordutra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
