@@ -4,6 +4,20 @@
 *“Self-education is, I firmly believe, the only kind of education there is.”*
 **― Isaac Asimov**
 
+### Hello There 🖖 I'm Vitor Dutra
+
+I'm a Chemical Engineer, also pursuing my 2nd degree in Computer Engineering.
+
+I found my true calling working with computers and making them work for me. 
+I **love** to write these amazing pieces of ✨magic called software.
+
+### My current focus 👨‍💻
+Currently I'm focusing on getting really good with the JavaScript stack to build amazing apps!
+ [ ] Pure Modern JavaScript
+ [ ] React.js
+ [ ] React Native
+ [ ] Node.js
+
 <!--
 **vitordutra/vitordutra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
