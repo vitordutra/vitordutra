@@ -33,10 +33,9 @@ Alongside my focused studies, I'm enrolled in these disciplines at my university
    - Object-Oriented (Python)
 
 ### 🤖 To the future
-I **really** want to learn more about Machine Learning, Deep Learning and all those cool looking stuff!
-It was my main reason for learning Python, albeit these studies are on hold due to me focusing more on JavaScript Stuff. </br>
-I also want to learn more about **Flutter** and how it compares to React Native. I also want to make some passive income making apps.</br>
-When I feel ready enough I want to land on my first Junior Developer Position on the JavaScript stack. </br>
+- I **really** want to learn more about Machine Learning, Deep Learning and all those cool looking stuff! It was my main reason for learning Python, albeit these studies are on hold due to me focusing more on JavaScript Stuff.
+- I also want to learn more about **Flutter** and how it compares to React Native. I also want to make some passive income making mobile apps.
+- When I feel ready enough I want to land on my first Junior Developer Position using the React/Node stack.
 
 
  
