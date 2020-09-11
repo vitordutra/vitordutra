@@ -58,4 +58,4 @@ Alongside my focused studies, I'm enrolled in these disciplines at my university
  📝 I'm a co-author in a published paper about applied Genetic Algorithms on a Chemical Process Model. You can read its abstract [here!](https://link.springer.com/article/10.1007/s10570-020-03183-w)</br></br>
  🎧 I usually listen to music when I'm coding! You can listen to what I'm listening here:</br></br>
 
-[![Spotify](https://spotify-now-lisnening.vercel.app/)](https://open.spotify.com/user/12170523014)
+[![Spotify](https://spotify-now-lisnening.vercel.app/api/spotify-playing)](https://open.spotify.com/user/12170523014)
