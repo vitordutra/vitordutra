@@ -5,7 +5,7 @@
 **― Isaac Asimov**
 
 ### Hello There 🖖 I'm Vitor Dutra
-[![Linkedin Badge](https://img.shields.io/badge/-Vitor%Dutra-lightgrey?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-dutra/)](https://www.linkedin.com/in/vitor-dutra/)
+[![Linkedin Badge](https://img.shields.io/badge/-Vitor%20Dutra-lightgrey?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-dutra/)](https://www.linkedin.com/in/vitor-dutra/)
 
 I'm a Chemical Engineer, also pursuing my 2nd degree in Computer Engineering.
 
