@@ -52,6 +52,7 @@ Alongside my focused studies, I'm enrolled in these disciplines at my university
 
 ### ⚡ Fun Facts
  🔢 I love math and all math related stuff! </br>
+ 📝 I'm a co-author in a published paper about applied Genetic Algorithms on a Chemical Process Model. You can read its abstract [here!](https://link.springer.com/article/10.1007/s10570-020-03183-w)
  🎧 I usually listen to music when I'm coding! You can listen to what I'm listening here:
 
 <!--
