@@ -12,6 +12,8 @@ I'm a Chemical Engineer, also pursuing my 2nd degree in Computer Engineering.
 I found my true calling working with computers and making them work for me. 
 I **love** to write these amazing pieces of ✨magic called software.
 
+---
+
 ### 👨‍💻 My current focus 
 Currently I'm focused on getting really good with the JavaScript stack to build amazing apps!
  - [ ] Pure Modern JavaScript
@@ -45,9 +47,9 @@ Alongside my focused studies, I'm enrolled in these disciplines at my university
 <br />
 
 
-### ⚡ Fun Fact
-I usually listen to music when I'm coding!
-You can listen to what I'm listening here:
+### ⚡ Fun Facts
+🔢 I love math and all math related stuff!
+🎧 I usually listen to music when I'm coding! You can listen to what I'm listening here:
 
 <!--
 **vitordutra/vitordutra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
