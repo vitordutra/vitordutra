@@ -12,7 +12,7 @@ I found my true calling working with computers and making them work for me.
 I **love** to write these amazing pieces of ✨magic called software.
 
 ### My current focus 👨‍💻
-Currently I'm focusing on getting really good with the JavaScript stack to build amazing apps!
+Currently I'm focused on getting really good with the JavaScript stack to build amazing apps!
  - [ ] Pure Modern JavaScript
  - [ ] React.js
  - [ ] React Native
