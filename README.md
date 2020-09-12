@@ -31,6 +31,9 @@ I **love** to write these amazing pieces of ✨magic called software.
 
 ### 👨‍💻 My current focus 
 Currently I'm focused on getting really good with the React/Node stack to build amazing apps!
+ - [x] HTML5
+ - [x] CSS3 - Flexbox, Grid and Animations
+ - [x] Sass
  - [ ] Pure Modern JavaScript
  - [ ] React.js
  - [ ] React Native
