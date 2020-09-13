@@ -59,7 +59,7 @@ Alongside my focused studies, I'm enrolled in these disciplines at my university
 ### ⚡ Fun Facts
  🔢 I love math and all math related stuff! </br></br>
  📝 I'm a co-author in a published paper about applied Genetic Algorithms on a Chemical Process Model. You can read its abstract [here!](https://link.springer.com/article/10.1007/s10570-020-03183-w)</br></br>
- 🏴‍☠️ One Piece is my favorite manga ever! Luffy is going to be the King of Pirates! 🌊
+ 🏴‍☠️ One Piece is my favorite manga ever! Luffy is going to be the King of Pirates! 🌊 </br></br>
  🎧 I usually listen to music when I'm coding! You can listen to what I'm listening here:</br></br>
 [![Spotify](https://novatorem-rose-theta.vercel.app//api/spotify)](https://open.spotify.com/user/12170523014)
 
