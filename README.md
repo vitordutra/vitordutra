@@ -23,7 +23,6 @@ I **love** to write these amazing pieces of ✨magic called software.
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"
       />
     </a>
-
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
       <img
         align="left"
@@ -32,7 +31,6 @@ I **love** to write these amazing pieces of ✨magic called software.
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"
       />
     </a>
-
     <a href="https://developer.mozilla.org/en-US/docs/Glossary/CSS">
       <img
         align="left"
@@ -41,7 +39,6 @@ I **love** to write these amazing pieces of ✨magic called software.
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"
       />
     </a>
-
     <a href="https://sass-lang.com/">
       <img
         align="left"
@@ -50,7 +47,6 @@ I **love** to write these amazing pieces of ✨magic called software.
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"
       />
     </a>
-
     <a href="https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript">
       <img
         align="left"
@@ -59,7 +55,6 @@ I **love** to write these amazing pieces of ✨magic called software.
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
       />
     </a>
-
     <a href="https://www.python.org/">
       <img
         align="left"
@@ -68,8 +63,7 @@ I **love** to write these amazing pieces of ✨magic called software.
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"
       />
     </a>
-
-    <a href="https://www.geeksforgeeks.org/c-language-set-1-introduction/">
+<a href="https://www.geeksforgeeks.org/c-language-set-1-introduction/">
       <img
         align="left"
         src="https://cdn.iconscout.com/icon/free/png-256/c-programming-569564.png"
@@ -79,9 +73,9 @@ I **love** to write these amazing pieces of ✨magic called software.
         alt="C programming Icon"
         width="26px"
       />
-    </a>
+</a>
 
-    <a href="https://www.mysql.com/">
+<a href="https://www.mysql.com/">
       <img
         align="left"
         src="https://cdn.iconscout.com/icon/free/png-256/mysql-21-1174941.png"
@@ -91,36 +85,34 @@ I **love** to write these amazing pieces of ✨magic called software.
         alt="Mysql Icon"
         width="26px"
       />
-    </a>
+</a>
 
-    <a href="https://git-scm.com/">
+<a href="https://git-scm.com/">
       <img
         align="left"
         alt="Git"
         width="26px"
         src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"
       />
-    </a>
+</a>
 
-    <a href="https://github.com/">
+<a href="https://github.com/">
       <img
         align="left"
         alt="GitHub"
         width="26px"
         src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"
       />
-    </a>
+</a>
 
-    <a
-      href="https://ubuntu.com/tutorials/command-line-for-beginners#1-overview"
-    >
+<a href="https://ubuntu.com/tutorials/command-line-for-beginners#1-overview">
       <img
         align="left"
         alt="Terminal"
         width="26px"
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"
       />
-    </a>
+</a>
 <br />
 <br />
 
