@@ -42,7 +42,7 @@ Currently I'm focused on getting really good with the React/Node stack to build 
 ### 🎓 Univesity Studies 
 Alongside my focused studies, I'm enrolled in these disciplines at my university
  - Algorithms and Data Structures (Python)
- - Databases (Theory and Practice)
+ - Databases (Relational Databases Project and Implementation)
  - Applied Electrical Circuits
  - Digital Circuits
  - Programming Paradigms
