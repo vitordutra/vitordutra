@@ -149,4 +149,12 @@ Alongside my focused studies, I'm enrolled in these disciplines at my university
  🏴‍☠️ One Piece is my favorite manga ever! Luffy is going to be the King of Pirates! 🌊 </br></br>
  🎧 I usually listen to music when I'm coding! You can listen to what I'm listening here:</br></br>
 [![Spotify](https://novatorem-rose-theta.vercel.app//api/spotify)](https://open.spotify.com/user/12170523014)
+    <div align="center">
+      <a href="https://open.spotify.com/user/12170523014">
+        <img
+          src="https://novatorem-rose-theta.vercel.app//api/spotify"
+          alt="Spotify"
+        />
+      </a>
+    </div>
 
