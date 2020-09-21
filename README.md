@@ -24,7 +24,7 @@ I **love** to write these amazing pieces of ✨magic called software.
       />
     </a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
       <img
         align="left"
         alt="HTML5"
@@ -111,7 +111,9 @@ I **love** to write these amazing pieces of ✨magic called software.
       />
     </a>
 
-    <a href="https://ubuntu.com/tutorials/command-line-for-beginners#1-overview">
+    <a
+      href="https://ubuntu.com/tutorials/command-line-for-beginners#1-overview"
+    >
       <img
         align="left"
         alt="Terminal"
