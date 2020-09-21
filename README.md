@@ -15,17 +15,110 @@ I **love** to write these amazing pieces of ✨magic called software.
 ---
 
 ### 🧰 Languages and Tools
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" src="https://cdn.iconscout.com/icon/free/png-256/c-programming-569564.png" srcset="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png 2x" alt="C programming Icon" width="26px">
-<img align="left" src="https://cdn.iconscout.com/icon/free/png-256/mysql-21-1174941.png" srcset="https://cdn.iconscout.com/icon/free/png-512/mysql-21-1174941.png 2x" alt="Mysql Icon" width="26px">
-<img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" >
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<a href="https://code.visualstudio.com/">
+      <img
+        align="left"
+        alt="Visual Studio Code"
+        width="26px"
+        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"
+      />
+    </a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+      <img
+        align="left"
+        alt="HTML5"
+        width="26px"
+        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"
+      />
+    </a>
+
+    <a href="https://developer.mozilla.org/en-US/docs/Glossary/CSS">
+      <img
+        align="left"
+        alt="CSS3"
+        width="26px"
+        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"
+      />
+    </a>
+
+    <a href="https://sass-lang.com/">
+      <img
+        align="left"
+        alt="Sass"
+        width="26px"
+        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"
+      />
+    </a>
+
+    <a href="https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript">
+      <img
+        align="left"
+        alt="JavaScript"
+        width="26px"
+        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
+      />
+    </a>
+
+    <a href="https://www.python.org/">
+      <img
+        align="left"
+        alt="Python"
+        width="26px"
+        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"
+      />
+    </a>
+
+    <a href="https://www.geeksforgeeks.org/c-language-set-1-introduction/">
+      <img
+        align="left"
+        src="https://cdn.iconscout.com/icon/free/png-256/c-programming-569564.png"
+        srcset="
+          https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png 2x
+        "
+        alt="C programming Icon"
+        width="26px"
+      />
+    </a>
+
+    <a href="https://www.mysql.com/">
+      <img
+        align="left"
+        src="https://cdn.iconscout.com/icon/free/png-256/mysql-21-1174941.png"
+        srcset="
+          https://cdn.iconscout.com/icon/free/png-512/mysql-21-1174941.png 2x
+        "
+        alt="Mysql Icon"
+        width="26px"
+      />
+    </a>
+
+    <a href="https://git-scm.com/">
+      <img
+        align="left"
+        alt="Git"
+        width="26px"
+        src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"
+      />
+    </a>
+
+    <a href="https://github.com/">
+      <img
+        align="left"
+        alt="GitHub"
+        width="26px"
+        src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"
+      />
+    </a>
+
+    <a href="https://ubuntu.com/tutorials/command-line-for-beginners#1-overview">
+      <img
+        align="left"
+        alt="Terminal"
+        width="26px"
+        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"
+      />
+    </a>
 <br />
 <br />
 
