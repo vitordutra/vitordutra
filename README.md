@@ -19,7 +19,8 @@ I **love** to write these amazing pieces of ✨magic called software.
 ---
 
 ### 🧰 Languages and Tools
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+
+   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
       <img
         align="left"
         alt="HTML5"
@@ -27,7 +28,8 @@ I **love** to write these amazing pieces of ✨magic called software.
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"
       />
     </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Glossary/CSS">
+    
+   <a href="https://developer.mozilla.org/en-US/docs/Glossary/CSS">
       <img
         align="left"
         alt="CSS3"
@@ -35,7 +37,8 @@ I **love** to write these amazing pieces of ✨magic called software.
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"
       />
     </a>
-    <a href="https://sass-lang.com/">
+    
+   <a href="https://sass-lang.com/">
       <img
         align="left"
         alt="Sass"
@@ -43,7 +46,8 @@ I **love** to write these amazing pieces of ✨magic called software.
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"
       />
     </a>
-    <a href="https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript">
+    
+   <a href="https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript">
       <img
         align="left"
         alt="JavaScript"
@@ -51,7 +55,8 @@ I **love** to write these amazing pieces of ✨magic called software.
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
       />
     </a>
-    <a href="https://www.python.org/">
+    
+   <a href="https://www.python.org/">
       <img
         align="left"
         alt="Python"
@@ -59,6 +64,7 @@ I **love** to write these amazing pieces of ✨magic called software.
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"
       />
     </a>
+    
 <a href="https://www.geeksforgeeks.org/c-language-set-1-introduction/">
       <img
         align="left"
@@ -106,6 +112,7 @@ I **love** to write these amazing pieces of ✨magic called software.
         src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"
       />
 </a>
+
 <a href="https://ubuntu.com/tutorials/command-line-for-beginners#1-overview">
       <img
         align="left"
