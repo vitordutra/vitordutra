@@ -131,7 +131,7 @@ Currently I'm focused on getting really good with the React/Node stack to build 
  - [x] HTML5
  - [x] CSS3 - Flexbox, Grid and Animations
  - [x] Sass
- - [ ] (Currently Learning) Pure Modern JavaScript
+ - [ ] <i class="fab fa-js"></i>(Currently Learning) Pure Modern JavaScript ES6+
  - [ ] Node.js
  - [ ] React.js
  - [ ] React Native
