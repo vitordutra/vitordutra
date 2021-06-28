@@ -6,7 +6,8 @@
 
 ### Hello There 🖖 I'm Vitor Dutra
 [![Linkedin Badge](https://img.shields.io/badge/-Vitor%20Dutra-lightgrey?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-dutra/)](https://www.linkedin.com/in/vitor-dutra/)
-[![Linkedin Badge](https://img.shields.io/badge/REPL.it-lightgrey?style=flat&logo=replit&logoColor=white&link=https://replit.com/@jvitordutra)](https://www.linkedin.com/in/vitor-dutra/)
+[![REPL.it Badge](https://img.shields.io/badge/REPL.it-lightgrey?style=flat&logo=replit&logoColor=white&link=https://replit.com/@jvitordutra)](https://replit.com/@jvitordutra)
+[![CodersRank Badge](https://img.shields.io/badge/CodersRank-lightgrey?style=flat&logo=codersrank&logoColor=white&link=https://profile.codersrank.io/user/vitordutra)](https://profile.codersrank.io/user/vitordutra))
 
 I'm a Chemical Engineer, also pursuing my 2nd degree in Computer Engineering.
 
