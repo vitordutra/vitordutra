@@ -1,4 +1,3 @@
-<script src="https://kit.fontawesome.com/8ba80f8d9e.js" crossorigin="anonymous"></script>
 *“Those who can imagine anything, can create the impossible.”*
 **― Alan Turing**
 
