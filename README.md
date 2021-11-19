@@ -57,7 +57,8 @@ I **love** to write these amazing pieces of ✨magic called software.
       />
     </a>
  
-   <p align="left"> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> </p>
+   
+   <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="26"/></a>
 
     
    <a href="https://www.python.org/">
