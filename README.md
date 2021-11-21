@@ -134,9 +134,9 @@ Currently I'm focused on getting really good with the React/Node stack to build 
  - [x] CSS3 - Flexbox, Grid and Animations
  - [x] Sass
  - [ ] (Currently Learning) Pure Modern JavaScript ES6+
+ - [ ] (Currently Learning) Flutter Framework
  - [ ] Node.js
  - [ ] React.js
- - [ ] React Native
  
 ### 🎓 Univesity Studies 
 Alongside my focused studies, I'm enrolled in these disciplines at my university
