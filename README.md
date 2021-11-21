@@ -171,8 +171,6 @@ I **love** to write these amazing pieces of ✨magic called software.
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" />
   </a>
 </p>
-<br />
-<br />
 
 ### 👨‍💻 My current focus
 
