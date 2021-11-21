@@ -202,7 +202,7 @@ I also have completed and I am somewhat knowledgeable on the following Computer 
 - Programming Paradigms
 - Object Oriented Programming
 
-### 🤖 To the future
+### 🤖 Towards the future
 
 - I **really** want to learn more about Machine Learning, Deep Learning and all those cool looking stuff! Besides, I have strong theoretical knowledge in single and multivariable calculus, statistics and linear algebra, which altogether are the basis of this area of study. It was my main reason for learning Python, albeit these studies are on hold due to me focusing more on JavaScript Stuff.
 - I also want to learn more about **Flutter** and how it compares to React Native. I also want to make some passive income making mobile apps.
