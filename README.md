@@ -12,7 +12,7 @@
 I'm a Chemical Engineer, also pursuing my 2nd degree in Computer Engineering.
 
 I'm also a member of Data Analytics and Artificial Intelligence Lab (DARTi Lab) @ UFMA.
-It's a lab focused on AI research. I'm determined on building amazing data driven apps using advanced Machine Learning Algorithms!
+Since it's a lab focused on AI research, I'm determined on building amazing data driven apps using advanced Machine Learning Algorithms!
 
 I found my true calling working with computers and making them work for me. 
 I **love** to write these amazing pieces of ✨magic called software.
@@ -150,8 +150,6 @@ I also have completed and I am somewhat knowledgeable on the following Computer 
  - Probability and Statistics
  - Ordinary and Partial Differential Equations
  - Algorithms and Data Structures (Python)
- - Applied Electrical Circuits
- - Digital Circuits
  - Databases (Relational Databases Project and Implementation)
  - Programming Paradigms
    - Logical (Prolog)
