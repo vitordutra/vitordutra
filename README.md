@@ -21,6 +21,7 @@ I **love** to write these amazing pieces of ✨magic called software.
 
 ### 🧰 Languages and Tools
 
+#### Frontend development
    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
       <img
         align="left"
@@ -47,6 +48,10 @@ I **love** to write these amazing pieces of ✨magic called software.
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"
       />
     </a>
+    
+   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="26"/>
+   </a>
     
    <a href="https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript">
       <img
@@ -124,6 +129,7 @@ I **love** to write these amazing pieces of ✨magic called software.
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"
       />
 </a>
+<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="26px"/> </a><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="26px"/> </a> </p>
 
 <br />
 <br />
