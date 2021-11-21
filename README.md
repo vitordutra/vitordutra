@@ -194,17 +194,15 @@ Alongside my focused studies, I'm enrolled in these disciplines at my university
 I also have completed and I am somewhat knowledgeable on the following Computer Science and Math related disciplines:
 
 - Artificial Intelligence & Machine Learning
-- Programming Laboratory (C)
+- Programming Laboratory
 - Calculus
 - Linear Algebra
 - Probability and Statistics
 - Ordinary and Partial Differential Equations
-- Algorithms and Data Structures (Python)
-- Databases (Relational Databases Project and Implementation)
+- Algorithms and Data Structures
+- Relational Databases
 - Programming Paradigms
-  - Logical (Prolog)
-  - Functional (LISP)
-  - Object-Oriented (Python)
+- Object Oriented Programming
 
 ### 🤖 To the future
 
