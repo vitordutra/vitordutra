@@ -133,6 +133,7 @@ Currently I'm focused on getting really good with the React/Node stack to build 
  - [x] HTML5
  - [x] CSS3 - Flexbox, Grid and Animations
  - [x] Sass
+ - [X] Bootstrap CSS Framework
  - [ ] (Currently Learning) Pure Modern JavaScript ES6+
  - [ ] (Currently Learning) Flutter Framework
  - [ ] Node.js
