@@ -43,7 +43,7 @@ I **love** to write these amazing pieces of ✨magic called software.
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" />
   </a>
   <a href="https://go.dev/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="go" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="go" height="40" />
   </a>
 </p>
 
