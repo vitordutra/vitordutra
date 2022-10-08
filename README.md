@@ -173,16 +173,16 @@ I **love** to write these amazing pieces of ✨magic called software.
 
 ### 👨‍💻 My current focus
 
-Currently I'm focused on getting really good with the React/Node stack to build amazing apps!
+Currently I'm focused on getting really good with these tools and practices to become a great fullstack software developer!
 
-- [x] HTML5
-- [x] CSS3 - Flexbox, Grid and Animations
-- [x] Sass
-- [x] Bootstrap CSS Framework
-- [ ] (Currently Learning) Pure Modern JavaScript ES6+
-- [ ] (Currently Learning) Flutter Framework
-- [ ] Node.js
-- [ ] React.js
+- [x] Pure Modern JavaScript ES6+
+- [ ] Typescript
+- [ ] React.js w/ Typescript
+- [ ] Spring Boot Framework
+- [ ] Docker
+- [x] Clean Code (book)
+- [ ] Test Driven Development by Kent Beck (reading)
+
 
 ### 🎓 Univesity Studies
 
