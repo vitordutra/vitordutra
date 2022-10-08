@@ -10,10 +10,9 @@ _“Self-education is, I firmly believe, the only kind of education there is.”
 [![REPL.it Badge](https://img.shields.io/badge/REPL.it-lightgrey?style=flat&logo=replit&logoColor=white&link=https://replit.com/@jvitordutra)](https://replit.com/@jvitordutra)
 [![CodersRank Badge](https://img.shields.io/badge/CodersRank-lightgrey?style=flat&logo=codersrank&logoColor=white&link=https://profile.codersrank.io/user/vitordutra)](https://profile.codersrank.io/user/vitordutra)
 
-I'm a Chemical Engineer, also pursuing my 2nd degree in Computer Engineering.
+I'm a fullstack software engineer @ [Olist](https://olist.com/pt-br/)
 
-I'm also a member of Data Analytics and Artificial Intelligence Lab (DARTi Lab) @ UFMA.
-Since it's a lab focused on AI research, I'm determined on building amazing data driven apps using advanced Machine Learning Algorithms!
+I'm a Chemical Engineer as well, pursuing my 2nd degree in Computer Engineering.
 
 I found my true calling working with computers and making them work for me.
 I **love** to write these amazing pieces of ✨magic called software.
@@ -42,6 +41,9 @@ I **love** to write these amazing pieces of ✨magic called software.
   </a>
   <a href="https://dart.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" />
+  </a>
+  <a href="https://go.dev/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="go" width="40" height="40" />
   </a>
 </p>
 
