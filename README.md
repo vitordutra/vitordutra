@@ -14,9 +14,10 @@
 
 ### 💼 Experience
 
-- **Trustly** — Backend Software Engineer, Fintech
-- **Olist** — Fullstack Software Engineer, Retail
-- **DARTI Lab (UFMA)** — NLP Engineer, Research
+- **Trustly** — Backend Software Engineer, *Financial Institution Connectors* team (remote).
+  Built and maintained bank integrations powering Open Banking payments for a global payments company, plus back-office features for the internal admin console used by other engineers.
+- **Olist** — Fullstack Software Engineer.
+- **DARTI Lab (UFMA)** — Research.
 
 ### 🧰 Stack
 
@@ -41,7 +42,8 @@
 
 ### 🔨 What I'm building
 
-- A **personal finance platform** and a few **Spring Boot automation tools** are in the works. They'll show up here when they're ready.
+- **[Cifrano](https://github.com/vitordutra/cifrano)** — a self-hosted personal finance platform I'm building right now: Java 21 + Spring Boot with a hexagonal architecture, PostgreSQL and a Next.js front end. Early days, built in the open.
+- A few **Spring Boot automation tools** are in the works too. They'll show up here when they're ready.
 
 ### 🎓 Education
 
