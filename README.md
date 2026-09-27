@@ -1,3 +1,9 @@
+_“Those who can imagine anything, can create the impossible.”_
+**― Alan Turing**
+
+_“Self-education is, I firmly believe, the only kind of education there is.”_
+**― Isaac Asimov**
+
 ### Hi, I'm Vitor Dutra 👋
 
 **Backend Software Engineer** from São Luís, Brazil, with ~4 years building production systems in **Java** and **Spring Boot**. I like the unglamorous parts of software: integrations that have to survive flaky third parties, event pipelines that can't lose a message, and tooling that makes other developers faster.
