@@ -1,8 +1,6 @@
-_“Those who can imagine anything, can create the impossible.”_
-**― Alan Turing**
+*“Those who can imagine anything, can create the impossible.”* **― Alan Turing**
 
-_“Self-education is, I firmly believe, the only kind of education there is.”_
-**― Isaac Asimov**
+*“Self-education is, I firmly believe, the only kind of education there is.”* **― Isaac Asimov**
 
 ### Hi, I'm Vitor Dutra 👋
 
@@ -16,8 +14,9 @@ _“Self-education is, I firmly believe, the only kind of education there is.”
 
 ### 💼 Experience
 
-- **Trustly** — Backend Software Engineer, Fintech
-- **Olist** — Fullstack Software Engineer, Retail
+- **Trustly** — Backend Software Engineer, *Financial Institution Connectors* team (remote).
+  Built and maintained bank integrations powering Open Banking payments for a global payments company, plus back-office features for the internal admin console used by other engineers.
+- **Olist** — Fullstack Software Engineer.
 - **DARTI Lab (UFMA)** — Research.
 
 ### 🧰 Stack
@@ -44,7 +43,6 @@ _“Self-education is, I firmly believe, the only kind of education there is.”
 ### 🔨 What I'm building
 
 - A **personal finance platform** and a few **Spring Boot automation tools** are in the works. They'll show up here when they're ready.
-- **[mediastack](https://github.com/vitordutra/mediastack)** — my self-hosted media server: Jellyfin, Sonarr, Radarr, Bazarr and qBittorrent in Docker, plus the scripts that glue them together.
 
 ### 🎓 Education
 
