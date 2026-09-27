@@ -14,10 +14,9 @@
 
 ### 💼 Experience
 
-- **Trustly** — Backend Software Engineer, *Financial Institution Connectors* team (remote).
-  Built and maintained bank integrations powering Open Banking payments for a global payments company, plus back-office features for the internal admin console used by other engineers.
-- **Olist** — Fullstack Software Engineer.
-- **DARTI Lab (UFMA)** — Research.
+- **Trustly** — Backend Software Engineer, Fintech
+- **Olist** — Fullstack Software Engineer, Retail
+- **DARTI Lab (UFMA)** — NLP Engineer, Reseearch
 
 ### 🧰 Stack
 
