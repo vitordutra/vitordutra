@@ -1,224 +1,56 @@
-_“Those who can imagine anything, can create the impossible.”_
-**― Alan Turing**
+### Hi, I'm Vitor Dutra 👋
 
-_“Self-education is, I firmly believe, the only kind of education there is.”_
-**― Isaac Asimov**
+**Backend Software Engineer** from São Luís, Brazil, with ~4 years building production systems in **Java** and **Spring Boot**. I like the unglamorous parts of software: integrations that have to survive flaky third parties, event pipelines that can't lose a message, and tooling that makes other developers faster.
 
-### Hello There 🖖 I'm Vitor Dutra
-
-[![Linkedin Badge](https://img.shields.io/badge/-Vitor%20Dutra-lightgrey?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-dutra/)](https://www.linkedin.com/in/vitor-dutra/)
-[![REPL.it Badge](https://img.shields.io/badge/REPL.it-lightgrey?style=flat&logo=replit&logoColor=white&link=https://replit.com/@jvitordutra)](https://replit.com/@jvitordutra)
-[![CodersRank Badge](https://img.shields.io/badge/CodersRank-lightgrey?style=flat&logo=codersrank&logoColor=white&link=https://profile.codersrank.io/user/vitordutra)](https://profile.codersrank.io/user/vitordutra)
-
-I'm a fullstack software engineer @ [Olist](https://olist.com/pt-br/)
-
-I'm a Chemical Engineer as well, pursuing my 2nd degree in Computer Engineering.
-
-I found my true calling working with computers and making them work for me.
-I **love** to write these amazing pieces of ✨magic called software.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vitor--dutra-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-dutra/)
+[![Email](https://img.shields.io/badge/Email-dutra.jvitor%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dutra.jvitor@gmail.com)
+![Open to work](https://img.shields.io/badge/Status-Open%20to%20work-2EA043?style=flat)
 
 ---
 
-### 🧰 Languages and Tools
+### 💼 Experience
 
-#### Programming Languages
+- **Trustly** — Backend Software Engineer, *Financial Institution Connectors* team (remote).
+  Built and maintained bank integrations powering Open Banking payments for a global payments company, plus back-office features for the internal admin console used by other engineers.
+- **Olist** — Fullstack Software Engineer.
+- **DARTI Lab (UFMA)** — Research.
 
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
-  </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" />
-  </a>
-  <a href="https://go.dev/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="go" height="40" />
-  </a>
-</p>
+### 🧰 Stack
 
-#### Frontend Development
+**Daily drivers**
 
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" />
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />
-  </a>
-</p>
+![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-#### Backend Development
+**Also comfortable with**
 
-<p align="left">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" />
-  </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" />
-  </a>
-  <a href="https://graphql.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40" />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
-  </a>
-</p>
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-#### Mobile Apps Development
+### 🔨 What I'm building
 
-<p align="left">
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" />
-  </a>
-</p>
+- A **personal finance platform** and a few **Spring Boot automation tools** are in the works. They'll show up here when they're ready.
+- **[mediastack](https://github.com/vitordutra/mediastack)** — my self-hosted media server: Jellyfin, Sonarr, Radarr, Bazarr and qBittorrent in Docker, plus the scripts that glue them together.
 
-#### Devops
+### 🎓 Education
 
-<p align="left">
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
-  </a>
-  <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40" />
-  </a>
-</p>
+- **B.Sc. Science and Technology** — UFMA (GPA 8.8/10); finishing **Computer Engineering** at UFMA
+- **B.Sc. Chemical Engineering** — UFSM
+- **Certified Tech Developer, Backend** — Digital House (co-created with Mercado Libre and Globant)
 
-#### Data Science & Machine Learning
+🌎 English (C2) · German · Portuguese (native)
 
-<p align="left">
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" />
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40" />
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40" />
-  </a>
-</p>
+### ⚡ Fun facts
 
-#### Databases
-
-<p align="left">
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
-  </a>
-</p>
-
-#### Testing & Automation
-
-<p align="left">
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40" />
-  </a>
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40" />
-  </a>
-</p>
-
-#### Frequently Used Tools
-
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
-  </a>
-    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" />
-  </a>
-</p>
-
-### 👨‍💻 My current focus
-
-Currently I'm focused on getting really good with these tools and practices to become a great fullstack software developer!
-
-- [x] Pure Modern JavaScript ES6+
-- [ ] Typescript
-- [ ] React.js w/ Typescript
-- [ ] Spring Boot Framework
-- [ ] Docker
-- [x] Clean Code (book)
-- [ ] Test Driven Development by Kent Beck (reading)
-
-
-### 🎓 Univesity Studies
-
-Alongside my focused studies, I'm enrolled in these disciplines at my university
-
-I also have completed and I am somewhat knowledgeable on the following Computer Science and Math related disciplines:
-
-- Artificial Intelligence & Machine Learning
-- Programming Laboratory
-- Calculus
-- Linear Algebra
-- Probability and Statistics
-- Ordinary and Partial Differential Equations
-- Algorithms and Data Structures
-- Relational Databases
-- Programming Paradigms
-- Object Oriented Programming
-
-### 🤖 Towards the future
-
-- I **really** want to learn more about Machine Learning, Deep Learning and all those cool looking stuff! Besides, I have strong theoretical knowledge in single and multivariable calculus, statistics and linear algebra, which altogether are the basis of this area of study. It was my main reason for learning Python, albeit these studies are on hold due to me focusing more on JavaScript Stuff.
-- I also want to learn more about **Flutter** and how it compares to React Native. I also want to make some passive income making mobile apps.
-- When I feel ready enough I want to land on my first Junior Developer Position using the React/Node stack.
-
-### ⚡ Fun Facts
-
-🔢 I love math and all math related stuff! </br></br>
-📝 I'm a co-author in a published paper about applied Genetic Algorithms on a Chemical Process Model. You can read its abstract [here!](https://link.springer.com/article/10.1007/s10570-020-03183-w)</br></br>
-🏴‍☠️ One Piece is my favorite manga ever! Luffy is going to be the King of Pirates! 🌊 </br></br>
-🎧 I usually listen to music when I'm coding! You can listen to what I'm listening here:</br></br>
-
-<div align="center">
-<a href="https://open.spotify.com/user/12170523014">
-<img
-          src="https://novatorem-rose-theta.vercel.app//api/spotify"
-          alt="Spotify"
-        />
-</a>
-</div>
+- 📝 Co-authored a [published paper](https://link.springer.com/article/10.1007/s10570-020-03183-w) applying genetic algorithms to a chemical process model — the Chemical Engineering degree wasn't wasted.
+- 🔢 I love math.
+- 🏴‍☠️ One Piece is my favorite manga ever.
